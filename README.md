@@ -1,2 +1,5 @@
 # ANTI_CHEAT_BYPASSER
 ANTI_CHEAT_BYPASSER
+
+fortnitePCGameClient:
+ec684b8c687f479fadea3cb2ad83f5c6
